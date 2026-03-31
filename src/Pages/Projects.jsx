@@ -156,7 +156,7 @@ function Projects() {
       {/* CTA */}
       <div className="mt-16 text-center">
         <p className="text-gray-400 text-lg mb-6">
-          Find more of my work on GitHub
+          Find more of my work on GitHu
         </p>
         <a
           href="https://github.com/psiddrtha20027"

@@ -41,20 +41,7 @@ function Projects() {
       technologies: ["Algorithm Design", "Traffic Simulation", "System Design", "Optimization"],
       impact: "Demonstrates understanding of real-world problem solving and system optimization"
     },
-    {
-      id: 3,
-      title: "💬 Chat Application (React-Based)",
-      type: "Frontend Project",
-      description: "Real-time chat interface with modern UI and interactive features.",
-      details: [
-        "Built a real-time chat interface with modern UI",
-        "Implemented chat bubbles and message sending features",
-        "Focused on user interaction and professional design",
-        "Clean and responsive frontend implementation"
-      ],
-      technologies: ["React", "JavaScript", "HTML", "CSS", "Real-time Communication"],
-      impact: "Strong foundation in frontend development and user experience design"
-    },
+    
     
     
     {

@@ -1,4 +1,3 @@
-import { motion } from "framer-motion"
 import Card from "../components/Card"
 import Hero from "../components/Hero"
 import Skills from "../components/Skills"
